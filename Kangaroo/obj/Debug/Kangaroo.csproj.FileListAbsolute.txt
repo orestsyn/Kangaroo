@@ -1,0 +1,7 @@
+D:\VisualProjects\Kangaroo\Kangaroo\bin\Debug\Kangaroo.exe.config
+D:\VisualProjects\Kangaroo\Kangaroo\bin\Debug\Kangaroo.exe
+D:\VisualProjects\Kangaroo\Kangaroo\bin\Debug\Kangaroo.pdb
+D:\VisualProjects\Kangaroo\Kangaroo\obj\Debug\Kangaroo.csprojAssemblyReference.cache
+D:\VisualProjects\Kangaroo\Kangaroo\obj\Debug\Kangaroo.csproj.CoreCompileInputs.cache
+D:\VisualProjects\Kangaroo\Kangaroo\obj\Debug\Kangaroo.exe
+D:\VisualProjects\Kangaroo\Kangaroo\obj\Debug\Kangaroo.pdb
